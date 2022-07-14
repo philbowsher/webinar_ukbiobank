@@ -12,6 +12,9 @@ https://r4ds.had.co.nz/explore-intro.html
 R Notebooks
 https://bookdown.org/yihui/rmarkdown/notebook.html
 
+esquisse add-in
+https://github.com/dreamRs/esquisse
+
 Flex Dashboard
 https://pkgs.rstudio.com/flexdashboard/articles/examples.html
 
